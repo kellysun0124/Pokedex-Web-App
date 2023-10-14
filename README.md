@@ -4,7 +4,7 @@ Here is a [video](https://www.youtube.com/watch?v=dWNKYpaoEXA&ab_channel=PaceOfS
 
 
 
-The Pokedex was made by accessing the online database ‘pokeapi’
+The Pokedex was made by accessing the online database [pokeapi](https://pokeapi.co/)
 
 ## installations
 In the front end you'll need to download following npm packages as dependencies: 
